@@ -1,0 +1,21 @@
+0 5
+SE
+S
+S
+NE
+SE
+E
+S
+SE
+S
+SE
+SW
+W
+SE
+SW
+SE
+NE
+SE
+E
+S
+SE
